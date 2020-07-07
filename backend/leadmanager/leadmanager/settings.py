@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'leadmanager.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': '-----',
+        'ENGINE': '-----'',
         'NAME': '-----',
         'USER': '-----',
         'PASSWORD': '-----',
